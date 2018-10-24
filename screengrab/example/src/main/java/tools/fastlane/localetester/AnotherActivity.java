@@ -2,8 +2,8 @@ package tools.fastlane.localetester;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.AlertDialog;
+import androidx.v7.app.ActionBarActivity;
+import androidx.v7.app.AlertDialog;
 import android.view.View;
 import android.widget.Button;
 

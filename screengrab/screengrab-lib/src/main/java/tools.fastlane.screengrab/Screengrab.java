@@ -22,7 +22,7 @@
 package tools.fastlane.screengrab;
 
 import android.content.Context;
-import android.support.test.InstrumentationRegistry;
+import androidx.test.InstrumentationRegistry;
 
 import java.util.HashMap;
 import java.util.regex.Pattern;
